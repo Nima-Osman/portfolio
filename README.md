@@ -27,3 +27,4 @@ I’m constantly seeking opportunities to grow as a data scientist. Whether it�
 Thank you for visiting my portfolio! Feel free to explore my projects, share feedback, or connect for collaborations. Let’s turn data into impact together!  
 
 **[linkedIn](https://www.linkedin.com/in/nima-osman/)**  
+**[cv](Nima Salah Osman CV DataScience.pdf)**  
