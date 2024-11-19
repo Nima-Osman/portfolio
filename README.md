@@ -1,6 +1,6 @@
 # Welcome to My GitHub Portfolio! 👋  
 
-Hi there! I'm **Nima Salah Osman**, a dedicated **Data Scientist** with a passion for uncovering insights, solving problems, and turning data into actionable knowledge. My journey in data science has been fueled by curiosity and a commitment to creating impactful solutions across diverse domains.  
+Hi there! I'm **Nima Osman**, a dedicated **Data Scientist** with a passion for uncovering insights, solving problems, and turning data into actionable knowledge. My journey in data science has been fueled by curiosity and a commitment to creating impactful solutions across diverse domains.  
 
 This portfolio showcases my work, highlighting projects that blend data analysis, visualization, and storytelling with practical applications.
 
@@ -25,3 +25,5 @@ I’m passionate about leveraging data to solve real-world problems, improve pro
 I’m constantly seeking opportunities to grow as a data scientist. Whether it’s diving into advanced machine learning, exploring big data technologies, or tackling unique challenges, I’m excited about the endless possibilities data science offers.  
 
 Thank you for visiting my portfolio! Feel free to explore my projects, share feedback, or connect for collaborations. Let’s turn data into impact together!  
+
+**[linkedIn](https://www.linkedin.com/in/nima-osman/)**  
