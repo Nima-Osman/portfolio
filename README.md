@@ -18,6 +18,11 @@ This portfolio showcases my work, highlighting projects that blend data analysis
 - **[Interactive Dashboard](https://github.com/Nima-Osman/dashboard)**  
   A dynamic dashboard that visualizes laboratory performance metrics, demonstrating my proficiency in data visualization and creating user-focused analytical tools.  
 
+- **[Airbnb Market Dynamics in New York City (2019)](https://github.com/Nima-Osman/airbnb)**  
+
+  This project analyzes Airbnb listings in New York City for 2019, uncovering key trends in property types, pricing, and neighborhood dynamics. By leveraging data cleaning, exploratory analysis, and machine learning, the project predicts growth trends and pricing strategies. Insights gained can help optimize Airbnb's decision-making in a competitive market.
+
+[Check out the full analysis and code on GitHub](#).
 ## 🌱 What Drives Me?  
 I’m passionate about leveraging data to solve real-world problems, improve processes, and drive informed decision-making. My expertise spans data wrangling, statistical modeling, machine learning, and creating intuitive visualizations to tell compelling stories with data.  
 
