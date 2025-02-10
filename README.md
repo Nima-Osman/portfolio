@@ -22,7 +22,9 @@ This portfolio showcases my work, highlighting projects that blend data analysis
 
   This project analyses Airbnb listings in New York City for 2019, uncovering key trends in property types, pricing, and neighborhood dynamics. By leveraging data cleaning, exploratory analysis, and machine learning, the project predicts growth trends and pricing strategies. Insights gained can help optimize Airbnb's decision-making in a competitive market.
 
-[Check out the full analysis and code on GitHub](#).
+- **[Neural Network-Based Image Classification Using CNNs](https://github.com/Nima-Osman/cifar_10_dataset)**
+A comprehensive project implementing a Convolutional Neural Network (CNN) for image classification using the CIFAR-10 dataset. The project includes data preprocessing, model architecture design, hyperparameter tuning, and evaluation to achieve an overall accuracy of 85%. Ethical considerations surrounding the use of machine learning models in real-world applications are also explored.
+
 ## 🌱 What Drives Me?  
 I’m passionate about leveraging data to solve real-world problems, improve processes, and drive informed decision-making. My expertise spans data wrangling, statistical modeling, machine learning, and creating intuitive visualizations to tell compelling stories with data.  
 
