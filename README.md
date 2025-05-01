@@ -12,7 +12,7 @@ This portfolio showcases my work, highlighting projects that blend data analysis
 - **[School Database Management System](https://github.com/Nima-Osman/school_database)**  
   A Python-powered system for managing school data, illustrating my expertise in database design and optimization.  
 
-- **[MMA Dataset Exploration](https://github.com/Nima-Osman/mma_dataset)**  
+- **[Telemarketing Dataset Exploration](https://github.com/Nima-Osman/mma_dataset)**  
   Explore how I analyse complex datasets from a Portuguese bank's telemarketing campaign, using Python, R, and advanced analytics to uncover trends, optimise strategies, and provide actionable insights.  
 
 - **[Interactive Dashboard](https://github.com/Nima-Osman/dashboard)**  
@@ -34,4 +34,4 @@ I’m constantly seeking opportunities to grow as a data scientist. Whether it�
 Thank you for visiting my portfolio! Feel free to explore my projects, share feedback, or connect for collaborations. Let’s turn data into impact together!  
 
 **[linkedIn](https://www.linkedin.com/in/nima-osman/)**  
-**[my CV](Nima_Salah_Osman_CV_DataScience.pdf)**  
+**[my CV](Nima_Osman_CV_2025.pdf)**  
