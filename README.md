@@ -6,6 +6,9 @@ This portfolio showcases my work, highlighting projects that blend data analysis
 
 ## 🌟 Featured Projects  
 
+- **[MSc Dissertation: Predictive Early Warning System for NHS Cancer Services](https://github.com/Nima-Osman/Dissertation)**
+
+My Master's dissertation focuses on quantifying systemic strain within the NHS. This project utilizes Cox Proportional Hazards (CoxPH) Survival Analysis on 410k+ operational records to model the time-to-system-failure (62-day cancer breach). It features advanced Feature Engineering (Activity Diversity Index, Efficiency Ratios) to create a Predictive Early Warning System for proactive policy intervention.
 - **[Transport Survey Analysis](https://github.com/Nima-Osman/Transport-Survey)**  
   A detailed analysis of transport survey data, featuring data cleaning, visualization, and interpretation to provide actionable insights.  
 
